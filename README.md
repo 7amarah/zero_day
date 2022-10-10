@@ -1,1 +1,1 @@
-In this project, vagrant (an open-source software product for building and managing virtual machine environments in a single workflow) will be used to perform projects outside the sandbox on a local computer.
+In this project, vagrant (an open-source software product for building and managing virtual machine environments in a single workflow) will be used to carry out the projects on a local computer outside the sandbox provided by ALX.
